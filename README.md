@@ -1,9 +1,13 @@
 # Project Title: Swarm Commander Tactics Software Vehicle JSON Generator
 # Description: 
-The Vehicle JSON Generator (VJG) is a MATLAB App Designer-based GUI application that allows users to configure and export data for various military vehicle platforms, UAVs, and weapon systems. Users can input specifications, select vehicle categories, and view associated images for quick identification.
-- [Read the Team QUATRO Docs](ProgramDocs)
+The Vehicle JSON Generator (VJG) is a MATLAB-based tool that allows users to generate structured JSON files representing vehicle configurations. These files are specifically designed to be used in conjunction with the Swarm Commander Tactics Software for Army simulation scenarios.
 
-## Team Members
+This repository contains documentation for:
+- Product Guide (HTML): Overview of what the product does and who it's for.
+- User Guide: Instructions for users.
+- Developer Guide: Technical documentation for maintainers.
+
+## Authors
 - CPT Andrew Chotkowski
 - CPT Kiyeon Lee
 - MAJ Anthony Osborne
