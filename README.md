@@ -3,5 +3,7 @@
 - [Read the Team QUATRO Docs](ProgramDocs)
 
 ## Team Members
-- CPT ...
-- MAJ ...
+- CPT Andrew Chotkowski
+- CPT Kiyeon Lee
+- MAJ Anthony Osborne
+- MAJ Matt West
