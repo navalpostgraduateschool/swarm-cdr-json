@@ -5,7 +5,7 @@
 ## Overview
 This guide explains how to operate the Vehicle JSON Generator (VJG) to create JSON vehicle files formatted for Swarm Commander.
 
-MATLAB R2024b or compatible MATLAB Runtime
+-  MATLAB R2024b or compatible MATLAB Runtime
 -  No internet connection required once installed
 
 ## Basic Steps to Use the App
@@ -24,6 +24,10 @@ MATLAB R2024b or compatible MATLAB Runtime
 -  Choose the folder and specify a unique file name (optional).
 -  Click Save to create the JSON file.
 
+## Notes
+-  Previously created JSON files can be reloaded and edited
+-  Custom variants or parameters must be saved manually as JSON if they are to be preserved
+-  Default parameter values can be left unchanged
 ---
 
 ## Features
