@@ -7,7 +7,7 @@ This repository contains documentation for:
 - Product Guide (HTML): Overview of what the product does and who it's for.
 - User Guide: Instructions for users.
 - Developer Guide: Technical documentation for maintainers.
-- [View these files.](https://github.com/navalpostgraduateschool/swarm-cdr-json/tree/ca17254921af6684c51e9d75bfe27406c73bc942/ProgramDocs)
+- [View these files.](ProgramDocs)
   
 ## Authors
 - CPT Andrew Chotkowski
