@@ -7,7 +7,7 @@ This repository contains documentation for:
 - [Product Guide (HTML)](https://navalpostgraduateschool.github.io/swarm-cdr-json/): Overview of what the product does and who it's for.
 - [User Guide](https://github.com/navalpostgraduateschool/swarm-cdr-json/blob/main/docs/UserDoc.md): Instructions for users.
 - [Developer Guide](https://github.com/navalpostgraduateschool/swarm-cdr-json/blob/main/docs/DeveloperDoc.md): Technical documentation for maintainers.
-- [View these files.](https://github.com/navalpostgraduateschool/swarm-cdr-json/blob/main/docs/DeveloperDoc.md)
+- [View all of these files.](https://github.com/navalpostgraduateschool/swarm-cdr-json/tree/main/docs)
   
 ## Authors
 - CPT Andrew Chotkowski
