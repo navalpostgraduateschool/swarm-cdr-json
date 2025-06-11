@@ -4,10 +4,10 @@ The Vehicle JSON Generator (VJG) is a MATLAB-based tool that allows users to gen
 - [Latest Version Download](https://github.com/navalpostgraduateschool/swarm-cdr-json/blob/ca17254921af6684c51e9d75bfe27406c73bc942/VJG_03JUN25_A.mlapp)
 
 This repository contains documentation for:
-- Product Guide (HTML): Overview of what the product does and who it's for.
+- [Product Guide (HTML)](https://navalpostgraduateschool.github.io/swarm-cdr-json/): Overview of what the product does and who it's for.
 - User Guide: Instructions for users.
 - Developer Guide: Technical documentation for maintainers.
-- [View these files.](ProgramDocs)
+- [View these files.](docs)
   
 ## Authors
 - CPT Andrew Chotkowski
